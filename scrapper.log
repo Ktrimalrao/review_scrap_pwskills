@@ -5386,3 +5386,36 @@ INFO:root:log my final result []
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "POST /review HTTP/1.1" 200 -
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.29:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [02/Jun/2023 15:43:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [02/Jun/2023 15:43:24] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [02/Jun/2023 15:43:24] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [02/Jun/2023 15:43:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'vivoy51a', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Very good product. I Love this very much , the camera was absolutely mind blowing, nice selfie.Good clarity, good sound,etc....and so many other features....'}, {'Product': 'vivoy51a', 'Name': 'anuj  gupta', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': "Very good delivery and also product.I'm so happy to receive this product. Really this mobile is very lightly and best feature add on this device."}, {'Product': 'vivoy51a', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Really Nice', 'Comment': 'Awesome  battery backup. Sound NOT UPTO MARK as compared to other vivo mobiles. Display is fantastic.Front camera is okay. Rear camera superb and overall better but not best.'}, {'Product': 'vivoy51a', 'Name': 'Balwinder  Singh', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': "Super performerer phone.Highlight is battery backup,which is excellent.Camera is also fine.I think it's a super mobile phone in this range.I just loved it and strongly recommend to phone lovers.I decreased one star after used 6 months,because Camera quality could be better.."}, {'Product': 'vivoy51a', 'Name': 'Shahzadi Siddiquie ', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'Degine is awesome , altra gaming mood is too good and The front  camera could have been better but satisfy'}, {'Product': 'vivoy51a', 'Name': 'Mahesh  Kumar', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': 'Good mobile speed but while ringing at call time...it is charr charr noise....camera is good also...battery backup good fast charging..all is well.'}, {'Product': 'vivoy51a', 'Name': 'Badrinarayanan P K', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': "Money's worth..8 GB RAM 128 GB storage expandable upto 1 Tb.. Battery does not draini fast... Cool for the price Could have been still better for amoled display and fast charging at less timePrompt delivery by flipkart.. Thanks"}, {'Product': 'vivoy51a', 'Name': 'Kumara sc Shivani chandrappa', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Super, good product, but front camer only 16 m, reward coil not recd, kindly reward coil update immediatly'}, {'Product': 'vivoy51a', 'Name': 'Nagaraja Naik', 'Rating': '4', 'CommentHead': 'Worth the money', 'Comment': "Awesome battery backup as compared to other Vivo Mobile, display is fantastic front camera is okay and rear camera is super and overall better but dual app system is not available in this phone, it's too bad,,"}, {'Product': 'vivoy51a', 'Name': 'Neha Thapa', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Awesome mobile❤️'}, {'Product': 'vivoy51a', 'Name': 'Neha Thapa', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Awesome mobile❤️'}]
+INFO:werkzeug:172.18.0.2 - - [02/Jun/2023 15:43:31] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [02/Jun/2023 15:43:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [02/Jun/2023 15:43:31] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.29:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [02/Jun/2023 15:56:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [02/Jun/2023 15:56:23] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [02/Jun/2023 15:56:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'vivoy51a', 'Name': 'Richards GS', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'Nice body material and design. Light weight phone. Great feel hand experience. Night selfies are good. Sound is nice and average. Finger print lock is very fast.'}, {'Product': 'vivoy51a', 'Name': 'Putlasaiganesh Putlasaiganesh', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Super Mobile , value for Money, and The Exchange For old product price is very good ...Over All Best Mble at Reasonable price'}, {'Product': 'vivoy51a', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Superb phone !!!!!!! Speaker is too good and we also get nice quality wired headphone also. The UI is also free of unecssary applications . The battery is huge.'}, {'Product': 'vivoy51a', 'Name': 'Nazeer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Worth for money'}, {'Product': 'vivoy51a', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Good'}, {'Product': 'vivoy51a', 'Name': 'Shakil Alam', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Super hai'}, {'Product': 'vivoy51a', 'Name': 'Pethari Murali Krishna Reddy', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Model and design superb and camera excellent'}, {'Product': 'vivoy51a', 'Name': 'Sunny Raj', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Good'}, {'Product': 'vivoy51a', 'Name': 'Shyam Kumar Sahni', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'Camera quality is amazing.👍👍👍'}, {'Product': 'vivoy51a', 'Name': 'Bollam Suresh', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Nice mobile'}, {'Product': 'vivoy51a', 'Name': 'Bollam Suresh', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Nice mobile'}]
+INFO:werkzeug:172.18.0.2 - - [02/Jun/2023 15:56:29] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [02/Jun/2023 15:56:29] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [02/Jun/2023 15:56:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
