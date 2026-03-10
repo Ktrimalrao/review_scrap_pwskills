@@ -71,6 +71,7 @@ This project automates the process by scraping reviews and organizing them in a 
 
 ## Project Structure
 
+```
 review_scrap_pwskills/
 │
 ├── templates/
@@ -81,7 +82,7 @@ review_scrap_pwskills/
 ├── app.py
 ├── requirements.txt
 └── README.md
-
+```
 
 
 ---
