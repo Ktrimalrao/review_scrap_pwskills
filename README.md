@@ -71,11 +71,11 @@ This project automates the process by scraping reviews and organizing them in a 
 
 ## Project Structure
 
-review_scrap_pwskills
+review_scrap_pwskills/
 │
-├── templates
-│ ├── index.html
-│ └── result.html
+├── templates/
+│   ├── index.html
+│   └── result.html
 │
 ├── scrapper.log
 ├── app.py
